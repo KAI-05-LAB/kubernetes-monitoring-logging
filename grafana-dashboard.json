@@ -1,0 +1,18 @@
+{
+  "title": "Kubernetes Monitoring Dashboard",
+  "timezone": "browser",
+  "panels": [
+    {
+      "title": "CPU Usage",
+      "type": "graph"
+    },
+    {
+      "title": "Memory Usage",
+      "type": "graph"
+    },
+    {
+      "title": "Pod Status",
+      "type": "graph"
+    }
+  ]
+}
